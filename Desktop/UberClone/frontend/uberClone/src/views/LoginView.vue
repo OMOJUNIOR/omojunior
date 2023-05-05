@@ -15,11 +15,11 @@
           <form action="#" @submit.prevent="handleBooking" class="relative w-full mt-6 mb-0 ml-0 mr-0 space-y-8">
             <div class="relative">
               <p class="absolute pt-0 pb-0 pl-2 pr-2 mb-0 ml-2 mr-0 -mt-3 font-medium text-gray-600 bg-white">Phone Number</p>
-              <input placeholder="5357864320" v-maska data-maska="(###)##-##-### " type="text" v-model="credentials.phone_number" id="phone_number" name="phone_number" class="block w-full pt-4 pb-4 pl-4 pr-4 mt-2 mb-0 ml-0 mr-0 text-base placeholder-gray-400 bg-white border border-gray-300 rounded-md focus:outline-none focus:border-black"/>
+              <input placeholder="5357111222" v-maska data-maska="(###)##-##-### " type="text" v-model="credentials.phone_number" id="phone_number" name="phone_number" class="block w-full pt-4 pb-4 pl-4 pr-4 mt-2 mb-0 ml-0 mr-0 text-base placeholder-gray-400 bg-white border border-gray-300 rounded-md focus:outline-none focus:border-black"/>
             </div>
             
             <div class="relative">
-              <button type="submit" @submit.prevent="handleBooking" class="inline-block w-full pt-4 pb-4 pl-5 pr-5 text-xl font-medium text-center text-white transition duration-200 bg-indigo-500 rounded-lg hover:bg-indigo-600 ease">Book</button>
+              <button type="submit" @submit.prevent="handleBooking" class="inline-block w-full pt-4 pb-4 pl-5 pr-5 text-xl font-medium text-center text-white transition duration-200 bg-black rounded-lg hover:bg-indigo-600 ease">Book</button>
             </div>
         </form>
         </div>

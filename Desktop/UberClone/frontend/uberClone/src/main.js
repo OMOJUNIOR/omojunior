@@ -13,8 +13,10 @@ app.use(createPinia())
 app.use(router)
 app.use(VueGoogleMaps, {
     load: {
-        key: 'YOUR_API_KEY_COMES_HERE',
-        // language: 'de',
+        key: 'AIzaSyDrIHJgOAU9gcnUxdznhf07oT4aLd1m1FU',
+        libraries: 'places',
+        
+
     },
 })
 

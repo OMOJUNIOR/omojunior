@@ -24,6 +24,28 @@ const router = createRouter({
       name: 'location',
       component: () => import('../views/LocationView.vue')
     },
+    {
+      path: '/map',
+      name: 'map',
+      component: () => import('../views/MapView.vue')
+    },
+    {
+      path:'/trip',
+      name:'trip',
+      component: () => import('../views/TripView.vue')
+    },
+    {
+      path:'/standby',
+      name:'standby',
+      component: () => import('../views/StandbyView.vue')
+    },
+
+    {
+      path:'/driver',
+      name:'driver',
+      component: () => import('../views/DriverView.vue')
+    },
+   
   ]
 })
 
