@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm a PHP enthusiastic working on weekdays, and blogging on weekends.<br>I am the Co.founder of Omomakay Liberia,<br>A classified ad marketplace that connects buyers and sellers in Liberia.
+I'm a versatile full-stack developer with expertise in PHP, Node.js, Lua, Vue.js, and Laravel, and I love building scalable systems and real-time applications. Whether it's crafting robust APIs, integrating telephony systems, or leveraging AI for smarter solutions, I thrive in complex backend and frontend environments.
+
+During weekdays, I focus on backend solutions, API integrations, and telephony systems, and on weekends, I share my experiences and insights through blogging. I'm also the Co-founder of **Omomakay Liberia**, a classified ad marketplace connecting buyers and sellers in Liberia.
+
+With a strong background in real-time systems, database management, cloud hosting, and microservices, I am passionate about solving challenging problems and building impactful products for diverse markets.
 
 
 ## 🌐 Socials:
